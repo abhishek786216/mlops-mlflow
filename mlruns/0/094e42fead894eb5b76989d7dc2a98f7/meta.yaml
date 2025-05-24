@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/094e42fead894eb5b76989d7dc2a98f7/artifacts
+end_time: 1748001276124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094e42fead894eb5b76989d7dc2a98f7
+run_name: angry-frog-662
+run_uuid: 094e42fead894eb5b76989d7dc2a98f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748001275975
+status: 3
+tags: []
+user_id: abhis

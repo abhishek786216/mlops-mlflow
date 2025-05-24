@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/0/a6fc71ab5bb44c6d91787ef86565341a/artifacts
+end_time: 1747997108689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6fc71ab5bb44c6d91787ef86565341a
+run_name: blushing-kit-960
+run_uuid: a6fc71ab5bb44c6d91787ef86565341a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997108584
+status: 3
+tags: []
+user_id: abhis

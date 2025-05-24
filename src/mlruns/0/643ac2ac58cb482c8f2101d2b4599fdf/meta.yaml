@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/0/643ac2ac58cb482c8f2101d2b4599fdf/artifacts
+end_time: 1747997474128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 643ac2ac58cb482c8f2101d2b4599fdf
+run_name: flawless-moose-784
+run_uuid: 643ac2ac58cb482c8f2101d2b4599fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997474012
+status: 3
+tags: []
+user_id: abhis

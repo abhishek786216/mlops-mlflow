@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/0/f93d83ca210a46afad991dd13452baef/artifacts
+end_time: 1747997152208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f93d83ca210a46afad991dd13452baef
+run_name: sincere-stag-51
+run_uuid: f93d83ca210a46afad991dd13452baef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997152081
+status: 3
+tags: []
+user_id: abhis

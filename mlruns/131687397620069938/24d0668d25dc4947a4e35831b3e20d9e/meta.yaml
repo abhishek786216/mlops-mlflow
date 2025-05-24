@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/24d0668d25dc4947a4e35831b3e20d9e/artifacts
+end_time: 1748067653978
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 24d0668d25dc4947a4e35831b3e20d9e
+run_name: handsome-gnat-750
+run_uuid: 24d0668d25dc4947a4e35831b3e20d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067653873
+status: 3
+tags: []
+user_id: abhis

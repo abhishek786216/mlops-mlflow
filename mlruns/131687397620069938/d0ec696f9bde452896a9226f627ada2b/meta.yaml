@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/d0ec696f9bde452896a9226f627ada2b/artifacts
+end_time: 1748067654695
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: d0ec696f9bde452896a9226f627ada2b
+run_name: delicate-kit-16
+run_uuid: d0ec696f9bde452896a9226f627ada2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067654588
+status: 3
+tags: []
+user_id: abhis

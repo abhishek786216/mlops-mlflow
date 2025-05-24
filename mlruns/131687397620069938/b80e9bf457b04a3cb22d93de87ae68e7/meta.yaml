@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/b80e9bf457b04a3cb22d93de87ae68e7/artifacts
+end_time: 1748006575316
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: b80e9bf457b04a3cb22d93de87ae68e7
+run_name: resilient-snipe-599
+run_uuid: b80e9bf457b04a3cb22d93de87ae68e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748006575226
+status: 3
+tags: []
+user_id: abhis

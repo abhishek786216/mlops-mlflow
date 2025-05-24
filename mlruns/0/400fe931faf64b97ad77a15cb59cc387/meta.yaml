@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/400fe931faf64b97ad77a15cb59cc387/artifacts
+end_time: 1748000301114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 400fe931faf64b97ad77a15cb59cc387
+run_name: powerful-boar-768
+run_uuid: 400fe931faf64b97ad77a15cb59cc387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748000300826
+status: 4
+tags: []
+user_id: abhis

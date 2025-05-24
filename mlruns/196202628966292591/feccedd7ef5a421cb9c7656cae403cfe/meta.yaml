@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/196202628966292591/feccedd7ef5a421cb9c7656cae403cfe/artifacts
+end_time: 1748002430784
+entry_point_name: ''
+experiment_id: '196202628966292591'
+lifecycle_stage: active
+run_id: feccedd7ef5a421cb9c7656cae403cfe
+run_name: receptive-kit-481
+run_uuid: feccedd7ef5a421cb9c7656cae403cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748002417609
+status: 3
+tags: []
+user_id: abhis

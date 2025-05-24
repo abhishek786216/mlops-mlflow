@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/4b5a8c1161134dd1a90fa4ce8e9753bf/artifacts
+end_time: 1748067667303
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 4b5a8c1161134dd1a90fa4ce8e9753bf
+run_name: gaudy-swan-352
+run_uuid: 4b5a8c1161134dd1a90fa4ce8e9753bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067647374
+status: 3
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/eb95e7a06d444e8ba4366797cd98b774/artifacts
+end_time: 1748067550187
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: eb95e7a06d444e8ba4366797cd98b774
+run_name: magnificent-eel-321
+run_uuid: eb95e7a06d444e8ba4366797cd98b774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067550098
+status: 3
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/196202628966292591/12c68e7c88bf426387ebf94554793546/artifacts
+end_time: 1748002352260
+entry_point_name: ''
+experiment_id: '196202628966292591'
+lifecycle_stage: active
+run_id: 12c68e7c88bf426387ebf94554793546
+run_name: clumsy-moth-843
+run_uuid: 12c68e7c88bf426387ebf94554793546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748002352103
+status: 3
+tags: []
+user_id: abhis

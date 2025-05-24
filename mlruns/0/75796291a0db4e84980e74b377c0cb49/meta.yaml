@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/75796291a0db4e84980e74b377c0cb49/artifacts
+end_time: 1748000142299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75796291a0db4e84980e74b377c0cb49
+run_name: smiling-robin-965
+run_uuid: 75796291a0db4e84980e74b377c0cb49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748000142017
+status: 4
+tags: []
+user_id: abhis

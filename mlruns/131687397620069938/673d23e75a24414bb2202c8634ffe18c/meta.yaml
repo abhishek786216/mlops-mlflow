@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/673d23e75a24414bb2202c8634ffe18c/artifacts
+end_time: 1748006575678
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 673d23e75a24414bb2202c8634ffe18c
+run_name: polite-shark-723
+run_uuid: 673d23e75a24414bb2202c8634ffe18c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748006575603
+status: 3
+tags: []
+user_id: abhis

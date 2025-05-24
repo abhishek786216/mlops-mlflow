@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/efd1c4abad7b4fe98e9e36929b73e6ea/artifacts
+end_time: 1748006575401
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: efd1c4abad7b4fe98e9e36929b73e6ea
+run_name: agreeable-shad-558
+run_uuid: efd1c4abad7b4fe98e9e36929b73e6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748006575323
+status: 3
+tags: []
+user_id: abhis

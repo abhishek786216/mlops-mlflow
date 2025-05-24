@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/0/3bf8228765fa4174b29d9c334b191d93/artifacts
+end_time: 1747997499293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bf8228765fa4174b29d9c334b191d93
+run_name: learned-crow-19
+run_uuid: 3bf8228765fa4174b29d9c334b191d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997499192
+status: 3
+tags: []
+user_id: abhis

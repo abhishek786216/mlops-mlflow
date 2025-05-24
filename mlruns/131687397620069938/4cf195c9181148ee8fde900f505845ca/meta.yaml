@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/4cf195c9181148ee8fde900f505845ca/artifacts
+end_time: 1748006575056
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 4cf195c9181148ee8fde900f505845ca
+run_name: valuable-rook-25
+run_uuid: 4cf195c9181148ee8fde900f505845ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748006574977
+status: 3
+tags: []
+user_id: abhis

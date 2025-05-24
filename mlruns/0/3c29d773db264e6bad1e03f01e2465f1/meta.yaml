@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3c29d773db264e6bad1e03f01e2465f1/artifacts
+end_time: 1748000817680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c29d773db264e6bad1e03f01e2465f1
+run_name: nebulous-newt-519
+run_uuid: 3c29d773db264e6bad1e03f01e2465f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748000817479
+status: 3
+tags: []
+user_id: abhis

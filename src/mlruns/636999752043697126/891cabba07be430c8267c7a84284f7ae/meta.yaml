@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/636999752043697126/891cabba07be430c8267c7a84284f7ae/artifacts
+end_time: 1748006395870
+entry_point_name: ''
+experiment_id: '636999752043697126'
+lifecycle_stage: active
+run_id: 891cabba07be430c8267c7a84284f7ae
+run_name: incongruous-jay-726
+run_uuid: 891cabba07be430c8267c7a84284f7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748006383873
+status: 3
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/227355833b594e009e558174269db748/artifacts
+end_time: 1748067654577
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 227355833b594e009e558174269db748
+run_name: agreeable-midge-175
+run_uuid: 227355833b594e009e558174269db748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067654411
+status: 3
+tags: []
+user_id: abhis

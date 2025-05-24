@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/26f46e4f469c45069d8cd9b00d5509cd/artifacts
+end_time: 1747997287001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26f46e4f469c45069d8cd9b00d5509cd
+run_name: worried-tern-533
+run_uuid: 26f46e4f469c45069d8cd9b00d5509cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997286918
+status: 3
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/196202628966292591/294f445a90984c16b288b1a0abe815a9/artifacts
+end_time: 1748002299307
+entry_point_name: ''
+experiment_id: '196202628966292591'
+lifecycle_stage: active
+run_id: 294f445a90984c16b288b1a0abe815a9
+run_name: valuable-skink-828
+run_uuid: 294f445a90984c16b288b1a0abe815a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748002299176
+status: 3
+tags: []
+user_id: abhis

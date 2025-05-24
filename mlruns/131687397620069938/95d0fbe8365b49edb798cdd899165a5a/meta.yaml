@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/95d0fbe8365b49edb798cdd899165a5a/artifacts
+end_time: 1748006574829
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 95d0fbe8365b49edb798cdd899165a5a
+run_name: flawless-grub-833
+run_uuid: 95d0fbe8365b49edb798cdd899165a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748006574763
+status: 3
+tags: []
+user_id: abhis

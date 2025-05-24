@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f7d67a51c2a48f392bbea90a7446aac/artifacts
+end_time: 1748000803261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f7d67a51c2a48f392bbea90a7446aac
+run_name: tasteful-jay-251
+run_uuid: 1f7d67a51c2a48f392bbea90a7446aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748000802960
+status: 4
+tags: []
+user_id: abhis

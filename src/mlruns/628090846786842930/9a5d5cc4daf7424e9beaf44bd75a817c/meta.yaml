@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/9a5d5cc4daf7424e9beaf44bd75a817c/artifacts
+end_time: 1748067550387
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: 9a5d5cc4daf7424e9beaf44bd75a817c
+run_name: sneaky-flea-698
+run_uuid: 9a5d5cc4daf7424e9beaf44bd75a817c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067550302
+status: 3
+tags: []
+user_id: abhis

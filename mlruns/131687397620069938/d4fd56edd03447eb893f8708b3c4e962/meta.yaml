@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/d4fd56edd03447eb893f8708b3c4e962/artifacts
+end_time: 1748067654376
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: d4fd56edd03447eb893f8708b3c4e962
+run_name: vaunted-mouse-621
+run_uuid: d4fd56edd03447eb893f8708b3c4e962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067654281
+status: 3
+tags: []
+user_id: abhis

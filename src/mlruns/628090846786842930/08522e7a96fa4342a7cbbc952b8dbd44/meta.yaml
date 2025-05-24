@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/08522e7a96fa4342a7cbbc952b8dbd44/artifacts
+end_time: 1748067550779
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: 08522e7a96fa4342a7cbbc952b8dbd44
+run_name: dapper-duck-569
+run_uuid: 08522e7a96fa4342a7cbbc952b8dbd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067550696
+status: 3
+tags: []
+user_id: abhis

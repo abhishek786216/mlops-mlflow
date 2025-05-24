@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f2c42334fc3c4ccdb486f0150099ce89/artifacts
+end_time: 1747997275058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c42334fc3c4ccdb486f0150099ce89
+run_name: capable-turtle-247
+run_uuid: f2c42334fc3c4ccdb486f0150099ce89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997274883
+status: 3
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/196202628966292591/88289c32141243828aba6bf13df5debb/artifacts
+end_time: 1748001327542
+entry_point_name: ''
+experiment_id: '196202628966292591'
+lifecycle_stage: active
+run_id: 88289c32141243828aba6bf13df5debb
+run_name: abundant-lamb-366
+run_uuid: 88289c32141243828aba6bf13df5debb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748001327383
+status: 3
+tags: []
+user_id: abhis

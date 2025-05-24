@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d645b165fdbd402ba41d2f4911ecb03e/artifacts
+end_time: 1748000061181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d645b165fdbd402ba41d2f4911ecb03e
+run_name: monumental-bear-257
+run_uuid: d645b165fdbd402ba41d2f4911ecb03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748000060820
+status: 4
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/ef663ea6eea2461e8c3c34c71ba00f8a/artifacts
+end_time: 1748067550687
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: ef663ea6eea2461e8c3c34c71ba00f8a
+run_name: colorful-whale-425
+run_uuid: ef663ea6eea2461e8c3c34c71ba00f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067550597
+status: 3
+tags: []
+user_id: abhis

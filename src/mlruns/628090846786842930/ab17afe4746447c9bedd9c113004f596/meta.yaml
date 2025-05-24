@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/ab17afe4746447c9bedd9c113004f596/artifacts
+end_time: 1748067550484
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: ab17afe4746447c9bedd9c113004f596
+run_name: calm-sponge-860
+run_uuid: ab17afe4746447c9bedd9c113004f596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067550397
+status: 3
+tags: []
+user_id: abhis

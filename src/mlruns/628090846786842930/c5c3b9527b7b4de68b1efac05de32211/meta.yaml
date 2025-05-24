@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/c5c3b9527b7b4de68b1efac05de32211/artifacts
+end_time: 1748067550086
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: c5c3b9527b7b4de68b1efac05de32211
+run_name: illustrious-kite-296
+run_uuid: c5c3b9527b7b4de68b1efac05de32211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067549978
+status: 3
+tags: []
+user_id: abhis

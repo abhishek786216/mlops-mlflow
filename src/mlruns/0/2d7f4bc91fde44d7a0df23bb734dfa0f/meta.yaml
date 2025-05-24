@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/0/2d7f4bc91fde44d7a0df23bb734dfa0f/artifacts
+end_time: 1747997085871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d7f4bc91fde44d7a0df23bb734dfa0f
+run_name: blushing-auk-690
+run_uuid: 2d7f4bc91fde44d7a0df23bb734dfa0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997085782
+status: 3
+tags: []
+user_id: abhis

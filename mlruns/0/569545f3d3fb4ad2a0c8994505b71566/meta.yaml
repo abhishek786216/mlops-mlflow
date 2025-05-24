@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/569545f3d3fb4ad2a0c8994505b71566/artifacts
+end_time: 1747999776102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 569545f3d3fb4ad2a0c8994505b71566
+run_name: salty-shrimp-346
+run_uuid: 569545f3d3fb4ad2a0c8994505b71566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747999774928
+status: 4
+tags: []
+user_id: abhis

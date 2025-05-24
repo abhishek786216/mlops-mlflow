@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/mlruns/131687397620069938/1a68faec913c4ca09c2311c264504cee/artifacts
+end_time: 1748067654177
+entry_point_name: ''
+experiment_id: '131687397620069938'
+lifecycle_stage: active
+run_id: 1a68faec913c4ca09c2311c264504cee
+run_name: gregarious-hog-852
+run_uuid: 1a68faec913c4ca09c2311c264504cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067654090
+status: 3
+tags: []
+user_id: abhis

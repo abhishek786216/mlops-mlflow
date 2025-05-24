@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/196202628966292591/afb032d9538046d58917bba291fade4a/artifacts
+end_time: 1748002397404
+entry_point_name: ''
+experiment_id: '196202628966292591'
+lifecycle_stage: active
+run_id: afb032d9538046d58917bba291fade4a
+run_name: bold-fly-514
+run_uuid: afb032d9538046d58917bba291fade4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748002397231
+status: 3
+tags: []
+user_id: abhis

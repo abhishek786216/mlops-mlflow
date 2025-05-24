@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4bc3bce78fd42d0855a291c9f062b29/artifacts
+end_time: 1747997261418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4bc3bce78fd42d0855a291c9f062b29
+run_name: capricious-jay-950
+run_uuid: d4bc3bce78fd42d0855a291c9f062b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747997261258
+status: 3
+tags: []
+user_id: abhis

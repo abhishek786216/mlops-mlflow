@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/OneDrive/Desktop/mlops-mlflow/src/mlruns/628090846786842930/47a4b6279d8a4040b893cf856cf89109/artifacts
+end_time: 1748067551188
+entry_point_name: ''
+experiment_id: '628090846786842930'
+lifecycle_stage: active
+run_id: 47a4b6279d8a4040b893cf856cf89109
+run_name: trusting-cub-96
+run_uuid: 47a4b6279d8a4040b893cf856cf89109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067551097
+status: 3
+tags: []
+user_id: abhis

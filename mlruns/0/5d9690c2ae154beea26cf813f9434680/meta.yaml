@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d9690c2ae154beea26cf813f9434680/artifacts
+end_time: 1748000361400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d9690c2ae154beea26cf813f9434680
+run_name: invincible-cod-239
+run_uuid: 5d9690c2ae154beea26cf813f9434680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748000361115
+status: 4
+tags: []
+user_id: abhis
